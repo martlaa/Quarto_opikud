@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Quarto Kasutajatest",
     "section": "",
-    "text": "Sissejuhatus\nSee on Quarto raamat, mis on loodud Quarto õpikute loomise juhendi testimiseks. Siin on paar erinevat peatükki, et näha, kuidas see töötab.",
+    "text": "Sissejuhatus\nSee on Quarto raamat, mis on loodud Quarto õpikute loomise juhendi testimiseks. Siin on paar erinevat peatükki, et näha, kuidas see töötab.\nSuur reheahi\n\nüks\nkaks",
     "crumbs": [
       "Sissejuhatus"
     ]
@@ -107,6 +107,16 @@
     "text": "5.4 Lisalugemiseks\n\nLood Eesti IT-inimestest ja ajaloost. Lood ja mõtted kuulatavad https://open.spotify.com/show/6cCAgaJE7TW2UsArFswWID\nKasutatud kirjandus: Vikipeedia https://et.wikipedia.org/\nKasutatud pildid: Pixabay  https://pixabay.com/\nGümnaasiumi kursus Digiteenused “Ettevõttluskeskkond ja digiteenuste loomise juhtimine” ja “Digiteenuste arendamine”\n\nAnna materjalile tagasiside siin: Materjalile tagasiside andmine",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Mis on infoühiskond?</span>"
+    ]
+  },
+  {
+    "objectID": "6-Soojenduseks.html",
+    "href": "6-Soojenduseks.html",
+    "title": "6  Soojenduseks",
+    "section": "",
+    "text": "Siia peaks siis tulema pikem tekst.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Soojenduseks</span>"
     ]
   }
 ]
